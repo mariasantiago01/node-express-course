@@ -1,0 +1,29 @@
+{
+  "name": "express-course",
+  "version": "1.0.0",
+  "description": "Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node 01-node-tutorial/app.js",
+    "dev": "nodemon 01-node-tutorial/app.js",
+    "pract": "node 01-node-tutorial/answers/practice1.js",
+    "prac3": "node 01-node-tutorial/answers/practice3.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariasantiago01/node-express-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariasantiago01/node-express-course/issues"
+  },
+  "homepage": "https://github.com/mariasantiago01/node-express-course#readme",
+  "keywords": [],
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
